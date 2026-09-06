@@ -23,7 +23,7 @@
     "cs-f": {
       "type": "raster",
       "tiles": [
-        "https://shiworks.xsrv.jp/raster-tiles/rinya/noto-2024-csmap-tiles/{z}/{x}/{y}.png"
+        "https://shi-works.com/raster-tiles/rinya/noto-2024-csmap-tiles/{z}/{x}/{y}.webp"
       ],
       "attribution": "<a href='' target='_blank'>能登地域CS立体図(林野庁 能登地域0.5mDEM(発災後)を加工して作成)</a>"
     }
